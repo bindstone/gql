@@ -1,0 +1,11 @@
+type Query {
+    motorbikeById(id: ID): Motorbike
+    motorbikes:[Motorbike]
+}
+
+type Motorbike {
+    id: ID
+    constructor: String
+    name: String
+    year: Int
+}

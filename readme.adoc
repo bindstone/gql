@@ -1,0 +1,13 @@
+Graph QL POC
+
+simple test implementation based on:
+
+* https://www.graphql-java.com/tutorials/getting-started-with-spring-boot/
+* https://github.com/graphql-java-kickstart/graphql-spring-boot
+
+With Tools on:
+
+* http://localhost:8080/graphiql
+* http://localhost:8080/playground
+* http://localhost:8080/voyager
+
